@@ -82,3 +82,7 @@ The project includes various visualizations such as:
 1. Ensure you have all the required libraries installed.
 2. Run the cells in the Jupyter Notebook in order to fetch, cleanse, analyze, and visualize the data.
 
+## Conclusion 
+After combing through the data, we have found that it would benefit the customer to look at investing in NVDA, ORCL, ANET, AVGO, and SAP as they have a correlation above 0.9. According to our models these stocks are all predicted to trend upward in the 12 week and 52 week forecasts. 
+If you take out the consideration of correalations above 0.9, the recomended stocks are then; AMZN, NVDA, META, TSM, ORCL, ANET, AVGO, NOW, SAP, and PLTR. These are trending up as well, they just don't rely heavily on each other. 
+We found that it would not be benefitial to invest in MSFT, GOOGL, or ARM as these are too volatil and/or trend down in the 12 week and 52 week predictions. 
