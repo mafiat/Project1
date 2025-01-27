@@ -82,22 +82,17 @@ The project includes various visualizations such as:
 1. Ensure you have all the required libraries installed.
 2. Run the cells in the Jupyter Notebook in order to fetch, cleanse, analyze, and visualize the data.
 
-## Results
-
-### Technical Analysis
-![Technical Analysis](./Results/technical_analysis.png)
+## Some Results
 
 ### Market Correlation
 ![Market Correlation](./Results/market_correlation.png)
 
-### Stocks Correlation
-![Stocks Correlation](./Results/stocks_correlation.png)
+### Technical Analysis
+![Technical Analysis](./Results/technical_analysis.png)
 
 ### Stock Prediction
 ![Stock Prediction](./Results/stock_prediction.png)
 
-### Stock Performance
-![Stock Performance](./Results/stock_performance.png)
 
 
 ## Conclusion 
