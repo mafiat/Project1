@@ -85,11 +85,7 @@ The project includes various visualizations such as:
 ## Some Results
 
 ### Market Correlation
-<style type="text/css">
-#T_844f4_row3_col1, #T_844f4_row4_col0, #T_844f4_row4_col1, #T_844f4_row7_col1, #T_844f4_row9_col0, #T_844f4_row11_col0, #T_844f4_row11_col1, #T_844f4_row13_col0, #T_844f4_row13_col1, #T_844f4_row14_col0, #T_844f4_row14_col1, #T_844f4_row15_col0, #T_844f4_row15_col1, #T_844f4_row16_col0, #T_844f4_row16_col1, #T_844f4_row17_col0, #T_844f4_row17_col1, #T_844f4_row18_col0, #T_844f4_row18_col1 {
-  color: green;
-}
-</style>
+
 <table id="T_844f4">
   <thead>
     <tr>
